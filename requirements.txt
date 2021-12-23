@@ -1,0 +1,6 @@
+python==3.6
+tqdm==4.48.2
+pandas==1.1.5
+torch==1.6 
+cudatoolkit=11.0
+simpletransformers==0.48.0
